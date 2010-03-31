@@ -93,7 +93,7 @@
             <tr> \
               <td class="b"/> \
               <td class="body"> \
-                <div class="content"> \
+                <div class="content" id="faceboxContent"> \
                 </div> \
                 <div class="footer"> \
                   <a href="#" class="close"> \
